@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CURE.Application/CURE.Application.csproj" Id="12daef99-070f-4f2a-b6b0-df2a31c4b62d" />
+  <Project Path="CURE.Domain/CURE.Domain.csproj" Id="3ce270ea-df40-4dba-b64a-c8931a265bf4" />
+  <Project Path="CURE.Infrastructure/CURE.Infrastructure.csproj" Id="ccda941f-be9e-47ae-bef4-68c77fe39ffa" />
+  <Project Path="CURE/CURE.csproj" />
+</Solution>
